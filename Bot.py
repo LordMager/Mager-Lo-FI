@@ -16,7 +16,7 @@ class MyBot(commands.Bot):
 bot = MyBot()
 
 # === ТВОИ ДАННЫЕ ===
-TOKEN = 'MTUxODM1MTQxNjI2NjE5OTExMA.Gyp8sr.eV5nZA4O_tVr5srcSRhQ-TVmaY2ow8519wsqFU'
+TOKEN = ''
 
 # База радиостанций (теперь их три)
 STATIONS = {
